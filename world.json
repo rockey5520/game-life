@@ -1,0 +1,51 @@
+{
+  "men": [
+    {
+      "gender": "male",
+      "age": 30,
+      "personality": "bold",
+      "nationality": "Sparta",
+      "identity": "warrior",
+      "growth_environment": "mountain",
+      "skin_color": "tan",
+      "hair_color": "black",
+      "eye_color": "brown"
+    },
+    {
+      "gender": "male",
+      "age": 25,
+      "personality": "funny",
+      "nationality": "Nordic",
+      "identity": "bard",
+      "growth_environment": "village",
+      "skin_color": "fair",
+      "hair_color": "blonde",
+      "eye_color": "blue"
+    }
+  ],
+  "women": [
+    {
+      "gender": "female",
+      "age": 28,
+      "personality": "gentle",
+      "nationality": "Elven",
+      "identity": "healer",
+      "growth_environment": "forest",
+      "skin_color": "pale",
+      "hair_color": "silver",
+      "eye_color": "green"
+    },
+    {
+      "gender": "female",
+      "age": 22,
+      "personality": "clever",
+      "nationality": "Desertian",
+      "identity": "alchemist",
+      "growth_environment": "desert",
+      "skin_color": "bronze",
+      "hair_color": "black",
+      "eye_color": "amber"
+    }
+  ],
+  "kids": []
+}
